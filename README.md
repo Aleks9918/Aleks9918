@@ -2,7 +2,9 @@ Apasionado por el análisis de datos y la generación de insights, mi formación
 
 Mi experiencia laboral en una consultora de Big Data me ha permitido trabajar con grandes volúmenes de datos, desarrollando habilidades para contar historias impactantes y respaldadas por análisis precisos. He combinado mis conocimientos en procesamiento de datos con SQL y mis competencias en visualización utilizando herramientas como Power BI y Tableau, logrando un enfoque integral que conecta datos con decisiones clave.
 Estoy comprometido con el aprendizaje continuo y la aplicación de soluciones innovadoras para transformar datos en valor.
+
 Mis habilidades:
+
 💻 Python | SQL
 
 📚 Pandas | Numpy | Matplotlib | Seaborn 
