@@ -4,10 +4,17 @@ Mi experiencia laboral en una consultora de Big Data me ha permitido trabajar co
 Estoy comprometido con el aprendizaje continuo y la aplicación de soluciones innovadoras para transformar datos en valor.
 Mis habilidades:
 💻 Python | SQL
+
 📚 Pandas | Numpy | Matplotlib | Seaborn 
+
 🛢 SQLServer | MySQL | BigQuery
+
 📊 Power BI | Tableau 
+
 ⚙️ GitHub | Visual Studio Code | Jupyter
+
 Contacto:
+
 Correo: alekssr.99@gmail.com
+
 Linkedin: https://www.linkedin.com/in/aleks-salaya-806124265/
